@@ -1,4 +1,4 @@
-<ins>Children</ins> 
+<ins>All-ages</ins> 
 
 Cite: Yiddish Sayings. Еврейские пословицы на идиш (יידישע פאלקסווערטלעך) Publisher: Малыш (Москва). 1990.
 
