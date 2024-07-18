@@ -1,6 +1,6 @@
 <ins>All-ages</ins> 
 
-Cite: Yiddish Sayings. Еврейские пословицы на идиш (יידישע פאלקסווערטלעך) Publisher: Малыш (Москва). 1990.
+Cite: Yiddish Sayings. (1990) Еврейские пословицы на идиш (יידישע פאלקסווערטלעך) Publisher: Малыш (Москва).
 
 <ins>Grammar</ins> 
 
