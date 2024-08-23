@@ -10,6 +10,10 @@ Cite: Glinert, L. (2005). Modern Hebrew: An Essential Grammar (3rd ed.). Routled
 
 Cite: Coffin, E. A., & Bolozky, S. (2005). A Reference Grammar of Modern Hebrew. Cambridge: Cambridge University Press
 
+<ins>Mathematics</ins> 
+
+Cite: Dictionary of Math Terms in Hebrew (1992). מילון עברי-רוסי-אנגלי למונחים במתמטיקה, Англ Словарь Математических. זסלבסקי אורית Zaslavsky Orit. Technion. 
+
 <ins>History</ins> 
 
 Cite: Chomsky, William. Hebrew: The Eternal Language. (1957) [1st ed.]. Philadelphia: Jewish Publication Society of America.
