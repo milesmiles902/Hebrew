@@ -14,6 +14,8 @@ Cite: Coffin, E. A., & Bolozky, S. (2005). A Reference Grammar of Modern Hebrew.
 
 Cite: Chomsky, William. Hebrew: The Eternal Language. (1957) [1st ed.]. Philadelphia: Jewish Publication Society of America.
 
+Cite: Yardeni, Ada. The book of Hebrew script, history, palaeography, script styles, calligraphy & design. (2002) -The British Library.
+
 <ins>Mathematics</ins> 
 
 Cite: Dictionary of Math Terms in Hebrew (1992). מילון עברי-רוסי-אנגלי למונחים במתמטיקה, Англ Словарь Математических. זסלבסקי אורית Zaslavsky Orit. Technion. 
